@@ -13,7 +13,7 @@ public class WarmUp{//ttt
         employeeMap.put("Ddene","Female");
         employeeMap.put("Winfred","Male");
         employeeMap.put("Jereme","Male");
-        employeeMap.put("Glad","Female");
+        employeeMap.put("Glad","Female");//rr
         employeeMap.put("Desirae","Female");
         employeeMap.put("Kakalina","Female");
         employeeMap.put("Bertrando","Male");
