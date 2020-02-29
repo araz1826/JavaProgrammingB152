@@ -1,4 +1,4 @@
-package day47FinalClass;
+package day47FinalClassEXPLANATION;
 
 public class ExtremeSport extends Sport {
 

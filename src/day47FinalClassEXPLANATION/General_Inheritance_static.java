@@ -1,4 +1,4 @@
-package day47FinalClass;
+package day47FinalClassEXPLANATION;
 
 public class General_Inheritance_static {
     //When I use instance method rather than static: when we need and object.

@@ -1,7 +1,7 @@
 package day45;
 
 public class Static_Instance_InheritanceDefinations {
-    //Static: it has only one copy for each and every object get from this template,
+    //Static method: it has only one copy for each and every object get from this template,
         //if the value change, everyone get affected. we do not need object to call static field
             //classname.staticmember
 

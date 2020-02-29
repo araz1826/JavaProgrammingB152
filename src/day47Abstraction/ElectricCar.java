@@ -17,7 +17,8 @@ public class ElectricCar extends Car {
     }
     @Override
     public void goBackward(){
-        System.out.println("bo backward");
+
+       System.out.println("bo backward");
     }
     @Override
     public void turn(String direction){

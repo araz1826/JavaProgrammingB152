@@ -28,13 +28,21 @@ public class MapGetSetValue {
         employeeMap.put("Aida","Female");
         employeeMap.put("Alonzo","Male");
 
-        for (Map.Entry<String, String> each:employeeMap.entrySet()) {
+        for (Map.Entry<String, String> each: employeeMap.entrySet() ) {
+             if(each.getValue().equals("Female")){
+                 each.setValue("Queen");
+             }else {
+                 each.setValue("King");
+             }
+        }
+        System.out.println(employeeMap);
+    }
+}
+/* for (Map.Entry<String, String> each:employeeMap.entrySet()) {
            if(each.getValue().equals("Female")){
                each.setValue("Queen");
            }else{
                each.setValue("King");
            }
         }
-        System.out.println(employeeMap);
-    }
-}
+        System.out.println(employeeMap);*/

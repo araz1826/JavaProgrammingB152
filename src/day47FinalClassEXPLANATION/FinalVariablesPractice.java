@@ -1,4 +1,4 @@
-package day47FinalClass;
+package day47FinalClassEXPLANATION;
 
 public class FinalVariablesPractice {
     public static void main(String[] args) {

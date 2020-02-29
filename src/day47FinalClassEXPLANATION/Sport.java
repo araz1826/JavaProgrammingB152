@@ -1,4 +1,4 @@
-package day47FinalClass;
+package day47FinalClassEXPLANATION;
 
 public  class Sport{
     //each class have a super class like OBJECT but not visible
